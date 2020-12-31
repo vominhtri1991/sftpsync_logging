@@ -3,7 +3,7 @@ source_path=/sync_sources
 backup_path=/sync_sources_bk
 target_path=/backup_source
 log_path=/sync_logs
-IP_HOST=192.168.129.116
+IP_HOST=192.168.9.29
 user=root
 
 #Create backup source and log folder if it noe exist
